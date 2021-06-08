@@ -12,7 +12,8 @@ for key in range(0, 11):
     print ("Key " + str(key) + " attempt")
     print (attempt)
 
-/*    
+    
+""" 
 key = int(input("Enter the amount to shift by:"))
 if key < 0:
    key += 26
@@ -29,6 +30,4 @@ for letter in mesasage:
 print (newMessage)
 
 message = (input("Enter a messsage:"))
-*/
-
-
+"""
